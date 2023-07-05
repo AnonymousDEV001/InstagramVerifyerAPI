@@ -7,13 +7,7 @@ const { getFirestore } = require("firebase/firestore");
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyApKYjQ8NcYKF3V3ZifFdUNX1KNqshkwBA",
-  authDomain: "instegream.firebaseapp.com",
-  projectId: "instegream",
-  storageBucket: "instegream.appspot.com",
-  messagingSenderId: "652226314514",
-  appId: "1:652226314514:web:3aa4d89a2766e95bef73cb",
-  measurementId: "G-6CDDY6QPWV"
+// API KEY
 };
 
 // Initialize Firebase
